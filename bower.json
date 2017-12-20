@@ -1,0 +1,24 @@
+{
+  "name": "purescript-cropper",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.1",
+    "purescript-console": "^3.0.0",
+    "purescript-options": "^3.1.0",
+    "purescript-contravariant": "^3.1.0",
+    "purescript-maybe": "^3.0.0",
+    "purescript-either": "^3.1.0",
+    "purescript-newtype": "^2.0.0",
+    "purescript-numbers": "^5.0.0",
+    "purescript-dom": "^4.13.2",
+    "purescript-eff": "^3.1.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
